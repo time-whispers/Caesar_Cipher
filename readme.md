@@ -22,7 +22,9 @@ Here is an example of how to use the Caesar cipher to encrypt the message “HEL
 		L becomes O (shift 3 from L)
 		L becomes O (shift 3 from L)
 		O becomes R (shift 3 from O)
-
-	4.The encrypted message is now “KHOOR”.
+  
+  Note- It is followed on alphabetical order i.e. A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z
+  
+   	4.The encrypted message is now “KHOOR”.
 
 To decrypt the message, you simply need to shift each letter back by the same number of positions. In this case, you would shift each letter in “KHOOR” back by 3 positions to get the original message, “HELLO”.
