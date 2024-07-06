@@ -45,5 +45,5 @@ elif user_input == 'd':
 
     key = int(input('Enter the key (1 - 26): '))
     text = input('Enter the text you want to decrypt: ')
-    plaintext = encrypt_decrypt(text, user_input, key)
-    print(f'Plain Text: {plaintext}')
+    Enterplaintext = encrypt_decrypt(text, user_input, key)
+    print(f'Plain Text: {Enterplaintext}')
